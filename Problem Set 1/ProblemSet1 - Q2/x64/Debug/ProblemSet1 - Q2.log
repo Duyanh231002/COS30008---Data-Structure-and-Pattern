@@ -1,0 +1,5 @@
+﻿  ProblemSet1 - Q2.cpp
+D:\Swinburne\Year 2 Semester 2\COS30008 - Data Structure and Pattern\Problem Set 1\ProblemSet1 - Q2\Combine.h(26,20): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Swinburne\Year 2 Semester 2\COS30008 - Data Structure and Pattern\Problem Set 1\ProblemSet1 - Q2\Combine.h(27,21): warning C4018: '<': signed/unsigned mismatch
+D:\Swinburne\Year 2 Semester 2\COS30008 - Data Structure and Pattern\Problem Set 1\ProblemSet1 - Q2\Combine.h(28,24): warning C4244: '*=': conversion from 'double' to '__int64', possible loss of data
+  ProblemSet1 - Q2.vcxproj -> D:\Swinburne\Year 2 Semester 2\COS30008 - Data Structure and Pattern\Problem Set 1\ProblemSet1 - Q2\x64\Debug\ProblemSet1 - Q2.exe
